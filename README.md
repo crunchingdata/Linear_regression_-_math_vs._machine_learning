@@ -1,1 +1,1 @@
-# statistical_and_regressional_concepts
+# Playing statistics and regressions
