@@ -6,3 +6,4 @@
 ![](/images/ML_scatterplot_test_data.jpg)
 ![](/images/ML_scatterplot_random_data.jpg)
 ![](/images/ML_red_vs_Math_blue_scatterplot.jpg)
+v
