@@ -1,4 +1,4 @@
-# Project 2: Linear regression and error handling
+# Project 2: Linear regression and model performance
 * Implemented linear reggression for revenue prognostic through machine learning and math.
 * Controlled accuracy of the linear regression through MSE, MAE, coefficient of determination and RMSE.
 * Compared linear regression trough machine learning with linear regression through math.
