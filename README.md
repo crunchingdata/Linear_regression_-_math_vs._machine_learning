@@ -21,11 +21,12 @@
 *asdsa
 ![](/images/ML_scatterplot_train_data.jpg)
 ![](/images/ML_scatterplot_test_data.jpg)
-![](/images/ML_scatterplot_random_data.jpg)
 ![](/images/ML_red_vs_Math_blue_scatterplot.jpg)
+
 ## Model Building
 ## Model performance
 The Random Forest model far outperformed the other approaches on the test and validation sets.
 * Random Forest : MAE = 11.22
 * Linear Regression: MAE = 18.86
 * Ridge Regression: MAE = 19.67
+![](/images/ML_scatterplot_random_data.jpg)
