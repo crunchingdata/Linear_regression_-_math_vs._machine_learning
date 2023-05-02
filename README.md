@@ -10,11 +10,11 @@
 
 ## Data cleaning
 * Created a column with random values for comparison of obtained measures.
-* Just a overview was requiered, because of non null-values:
+* Just a overview was requiered, because of non null-values in the dataset.
+## EDA
 ![](/images/scatterplot_with_pairplot.jpg)
 
-## EDA
-
+## Model Building
 ![](/images/scatterplot_with_math_linear_regression.jpg)
 * asd
 ![](/images/scatterplot_with_corridor_68_data_math.jpg)
@@ -22,8 +22,6 @@
 ![](/images/ML_scatterplot_train_data.jpg)
 ![](/images/ML_scatterplot_test_data.jpg)
 ![](/images/ML_red_vs_Math_blue_scatterplot.jpg)
-
-## Model Building
 ## Model performance
 The Random Forest model far outperformed the other approaches on the test and validation sets.
 * Random Forest : MAE = 11.22
