@@ -12,8 +12,8 @@
 * Created a column with random values for comparison of obtained measures.
 * Just a overview was requiered, because of non null-values in the dataset.
 ## EDA
+![](/images/scatterplot_with_Jointplot.jpg)
 ![](/images/scatterplot_with_pairplot.jpg)
-
 ## Model Building
 ![](/images/scatterplot_with_math_linear_regression.jpg)
 * asd
