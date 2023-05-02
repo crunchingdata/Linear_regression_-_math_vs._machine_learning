@@ -5,7 +5,7 @@
 * asd
 ![](/images/scatterplot_with_math_linear_regression.jpg)
 * asd
-![](/images/scatterplot_with_corridor_68%_data_math.jpg)
+![](/images/scatterplot_with_corridor_68_data_math.jpg)
 *asdsa
 ![](/images/ML_scatterplot_train_data.jpg)
 ![](/images/ML_scatterplot_test_data.jpg)
