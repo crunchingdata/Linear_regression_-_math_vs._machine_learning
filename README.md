@@ -1,4 +1,4 @@
-# Project 2 overview: Linear regression (math vs. machine learning) and model performance
+# Project 2 overview: Linear regression - math vs. machine learning
 * Implemented linear reggression for revenue prognostic through machine learning and math.
 * Controlled accuracy of the linear regression through MSE, MAE, coefficient of determination and RMSE.
 * Compared linear regression trough machine learning with linear regression through math.
