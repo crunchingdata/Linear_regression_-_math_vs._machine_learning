@@ -7,6 +7,9 @@
 * Python 3.9.15.
 * Packages: pandas, numpy, math, seaborn, matplotlib.pyplot, statistics, sklearn.model_selection, sklearn.linear_model.
 * dataset: 500 rows of daily revenue by temperature of a ice cream shop in a csv-file.
+
+## Data cleaning
+* no cleaning done just overview was requiered, because of non null-values.
 ![](/images/scatterplot_with_pairplot.jpg)
 * asd
 ![](/images/scatterplot_with_math_linear_regression.jpg)
