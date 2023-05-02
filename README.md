@@ -1,6 +1,7 @@
 # Linear regression and error handling
 * Implemented linear reggression for revenue prognostic through machine learning and math.
 * Controlled accuracy of the linear regression through MSE, MAE, coefficient of determination and RMSE.
+* Compared linear regression trough machine learning with linear regression through math.
 ![](/images/scatterplot_with_pairplot.jpg)
 * asd
 ![](/images/scatterplot_with_math_linear_regression.jpg)
