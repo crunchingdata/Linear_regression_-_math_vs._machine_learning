@@ -9,9 +9,11 @@
 * dataset: 500 rows of daily revenue by temperature of a ice cream shop in a csv-file.
 
 ## Data cleaning
-* Just a overview was requiered, because of non null-values.
+* Just a overview was requiered, because of non null-values:
 ![](/images/scatterplot_with_pairplot.jpg)
-* asd
+
+## EDA
+
 ![](/images/scatterplot_with_math_linear_regression.jpg)
 * asd
 ![](/images/scatterplot_with_corridor_68_data_math.jpg)
