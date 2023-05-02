@@ -12,7 +12,7 @@
 * Created a column with random values for comparison of obtained measures.
 * Just a overview was requiered, because of non null-values in the dataset.
 ## EDA
-* I looked at the distributions of the data and the correlations between the columns.
+* I looked at the distributions of the data and the correlations between the columns with the pearson correlation coefficient.
 ![](/images/scatterplot_with_Jointplot.jpg)
 ![](/images/scatterplot_with_pairplot.jpg)
 ![](/images/Pearson_coefficient.jpg)
