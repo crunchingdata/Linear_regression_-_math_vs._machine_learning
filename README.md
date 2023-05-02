@@ -15,7 +15,7 @@
 * I looked at the distributions of the data and the correlations between the columns.
 ![](/images/scatterplot_with_Jointplot.jpg)
 ![](/images/scatterplot_with_pairplot.jpg)
-![](/images/Pearson coefficient.jpg)
+![](/images/Pearson_coefficient.jpg)
 
 ## Model Building
 ![](/images/scatterplot_with_math_linear_regression.jpg)
