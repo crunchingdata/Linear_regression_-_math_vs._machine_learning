@@ -6,7 +6,7 @@
 ## Code and resources used
 * Python 3.9.15.
 * Packages: pandas, numpy, math, seaborn, matplotlib.pyplot, statistics, sklearn.model_selection, sklearn.linear_model.
-* dataset: dynamic data per company on about exemplary ING Bank~[5877 rows x 9 columns] covering 20+ years of historical data from API [https://www.alphavantage.co/](https://www.alphavantage.co/).
+* dataset: 500 rows of daily revenue by temperature of a ice cream shop in a csv-file.
 ![](/images/scatterplot_with_pairplot.jpg)
 * asd
 ![](/images/scatterplot_with_math_linear_regression.jpg)
