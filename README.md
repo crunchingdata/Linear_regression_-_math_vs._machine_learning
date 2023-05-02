@@ -2,10 +2,10 @@
 * Implemented linear reggression for revenue prognostic through machine learning and math.
 * Controlled accuracy of the linear regression through MSE, MAE, coefficient of determination and RMSE.
 * Compared linear regression trough machine learning with linear regression through math.
-* 
+
 ## Code and resources used
 * Python 3.9.15.
-* Packages: pandas, numpy, math, plotly.express, plotly.graph_objects, requests, json.
+* Packages: pandas, numpy, math, seaborn, matplotlib.pyplot, statistics, sklearn.model_selection, sklearn.linear_model.
 * dataset: dynamic data per company on about exemplary ING Bank~[5877 rows x 9 columns] covering 20+ years of historical data from API [https://www.alphavantage.co/](https://www.alphavantage.co/).
 ![](/images/scatterplot_with_pairplot.jpg)
 * asd
