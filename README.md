@@ -6,7 +6,7 @@
 ## Code and resources used
 * Python 3.9.15.
 * Packages: pandas, numpy, math, seaborn, matplotlib.pyplot, statistics, sklearn.model_selection, sklearn.linear_model.
-* dataset: 500 rows of daily revenue by temperature of a ice cream shop in a csv-file.
+* dataset: 500 rows of daily revenue by temperature of a ice cream shop in IceCreamData.csv
 
 ## Data cleaning
 * Just a overview was requiered, because of non null-values:
