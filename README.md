@@ -39,7 +39,7 @@
 * Linear regression through math seems to be more accurate, because ML ist using 25% less data, thus only 75% of the data for training. Obviously ML has the advantage of assimilating new data.
 * MSE expresses clearly a difference between ML and Math, because of square.
 ### Performance control
-* Controlled outcomes with random data. 
-![](/images/ML_scatterplot_random_data.jpg)
 * Controlled numericaly with examples.
 ![](/images/example.jpg)
+* Controlled outcomes with random data. 
+![](/images/ML_scatterplot_random_data.jpg)
