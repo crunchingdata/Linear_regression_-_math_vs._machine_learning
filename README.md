@@ -27,7 +27,7 @@
 * Splitted randomly the data in conventional 75% for training and 25% for testing the model. 
 * Trained the model through machine learning with "from sklearn.linear_model import LinearRegression" on 75% of random selected data.
 ![](/images/ML_scatterplot_train_data.jpg)
-* Tested the trained machine learning linear regression model with regressor.predict() on the remaining 25% of random selected data.
+* Tested the trained machine learning linear regression model, applying regressor.predict() on the remaining 25% of random selected data.
 ![](/images/ML_scatterplot_test_data.jpg)
 ## Model performance
 ![](/images/ML_red_vs_Math_blue_scatterplot.jpg)
