@@ -35,6 +35,6 @@
 ![](/images/ML_red_vs_Math_blue_scatterplot.jpg)
 ### Performance metrics
 * Math: $MSE = 588.45, \hspace{1em} MAE = 19.48, \hspace{1em}$
-* Linear Regression: $MSE = 594.88,\hspace{1em} MAE = 19.58, \hspace{1em}R^2 $
+* ML: $\hspace{1em}MSE = 594.88,\hspace{1em} MAE = 19.58, \hspace{1em}R^2 $
 
 ![](/images/ML_scatterplot_random_data.jpg)
