@@ -35,7 +35,7 @@
 ![](/images/ML_red_vs_Math_blue_scatterplot.jpg)
 ### Performance metrics
 * Linear regression through math seems to be more accurate, because ML ist using 25% less data because of only 75% of the data for training. Obviously ML has the advantage of assimilating new data.
-* ML: $\hspace{1em}MSE = 594.88,\hspace{1em} MAE = 19.58, \hspace{1em} R^2 = 0.979, \hspace{1em} RMSE = 24.39$
-* Math: $MSE = 588.45, \hspace{1em} MAE = 19.48, \hspace{1em} R^2 = 0.97905, \hspace{1em} RMSE = 24.26$
+* ML: $\hspace{1em}MSE = 594.88,\hspace{1em} MAE = 19.58, \hspace{1em} R^2 =0.9788, \hspace{1em} RMSE = 24.39$
+* Math: $MSE = 588.45, \hspace{1em} MAE = 19.48, \hspace{1em} R^2 = 0.9791, \hspace{1em} RMSE = 24.26$
 
 ![](/images/ML_scatterplot_random_data.jpg)
