@@ -30,7 +30,7 @@
 * Tested the trained machine learning linear regression model, applying regressor.predict() on the remaining 25% of random selected data.
 ![](/images/ML_scatterplot_test_data.jpg)
 ## Model performance
-* Plotted for compraison both regression lines on the same scatter plot: red~machine learning, blue~math.
+* Plotted for compraison both regression lines on the same scatter plot: red is machine learning, blue ist math.
 ![](/images/ML_red_vs_Math_blue_scatterplot.jpg)
 * Math: MAE = 11.22
 * Linear Regression: MAE = 18.86
