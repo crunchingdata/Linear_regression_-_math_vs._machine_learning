@@ -18,6 +18,7 @@
 ![](/images/Pearson_coefficient.jpg)
 
 ## Model Building
+### Math-Model
 * Reached to the linear regression line through math with $y_{line}= mx+b$, with $m= \frac{n \cdot \sum xy - \sum x \cdot \sum y}{n \cdot \sum x^2 - (\sum x)^2}$ and $b = \frac{\sum y - m \cdot \sum x }{n}$.
 ![](/images/scatterplot_with_math_linear_regression.jpg)
 * Detected 68% of main data around the regression line without outliers with the corridor $y\in [y_{line} - RSME, y_{line} + RSME]$, because of similarity of RSME to standard deviation. (95% with two times and 99,7% three times RSME, add rounding error)
