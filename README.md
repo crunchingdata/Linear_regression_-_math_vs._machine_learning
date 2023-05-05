@@ -30,8 +30,10 @@
 * Tested the trained machine learning linear regression model, applying regressor.predict() on the remaining 25% of random selected data.
 ![](/images/ML_scatterplot_test_data.jpg)
 ## Model performance
-* Plotted for compraison both regression lines on the same scatter plot: red is machine learning, blue ist math.
+### Visual comparison
+* Plotted for compraison both regression lines on the same scatter plot: red is machine learning, blue ist math. Because of no evidend difference, got on to numerical performance metrics.
 ![](/images/ML_red_vs_Math_blue_scatterplot.jpg)
+### Performance metrics
 * Math: MAE = 11.22
 * Linear Regression: MAE = 18.86
 
