@@ -34,7 +34,7 @@
 * Plotted for compraison both regression lines on the same scatter plot: red is machine learning, blue ist math. Because of no evidend difference, got on to numerical performance metrics.
 ![](/images/ML_red_vs_Math_blue_scatterplot.jpg)
 ### Performance metrics
-* Math: MAE = 11.22
-* Linear Regression: MAE = 18.86
+* Math: MSE = 529.678
+* Linear Regression: MSE = 546.368
 
 ![](/images/ML_scatterplot_random_data.jpg)
