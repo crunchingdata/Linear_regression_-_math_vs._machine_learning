@@ -31,7 +31,7 @@
 ![](/images/ML_scatterplot_test_data.jpg)
 ## Model performance
 ### Visual comparison
-* Plotted for compraison both regression lines on the same scatter plot: red is machine learning, blue ist math. Because of no evidend difference, got on to numerical performance metrics.
+* Plotted for comparison both regression lines on the same scatter plot: red is machine learning, blue ist math. Because of no evidend difference, got on to numerical performance metrics.
 ![](/images/ML_red_vs_Math_blue_scatterplot.jpg)
 ### Performance metrics
 * Math: MSE = 529.678
