@@ -36,7 +36,7 @@
 ### Performance metrics
 * ML: $\hspace{1em}MSE = 594.88,\hspace{1em} MAE = 19.58, \hspace{1em} R^2 =0.9788, \hspace{1em} RMSE = 24.39$
 * Math: $MSE = 588.45, \hspace{1em} MAE = 19.48, \hspace{1em} R^2 = 0.9791, \hspace{1em} RMSE = 24.26$
-* Linear regression through math seems to be more accurate, because ML ist using 25% less data because of only 75% of the data for training. Obviously ML has the advantage of assimilating new data.
+* Linear regression through math seems to be more accurate, because ML ist using 25% less data, thus only 75% of the data for training. Obviously ML has the advantage of assimilating new data.
 * MSE expresses clearly a difference because of square.
 ### Performance control
 * Controlled outcomes with random data. 
