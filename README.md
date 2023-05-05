@@ -42,3 +42,4 @@
 * Controlled outcomes with random data. 
 ![](/images/ML_scatterplot_random_data.jpg)
 * Controlled numericaly with examples.
+![](/images/example.jpg)
