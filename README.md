@@ -18,7 +18,7 @@
 ![](/images/Pearson_coefficient.jpg)
 
 ## Model Building
-* Reached to the linear regression line through math with $y= mx+b$ with $m= \frac{n \cdot \sum xy - \sum x \cdot \sum y}{n \cdot \sum x^2 - (\sum x)^2}$ and
+* Reached to the linear regression line through math with $y= mx+b$, with $m= \frac{n \cdot \sum xy - \sum x \cdot \sum y}{n \cdot \sum x^2 - (\sum x)^2}$ and $b = \frac{\sum y - m \cdot \sum x }{n}$:
 ![](/images/scatterplot_with_math_linear_regression.jpg)
 * asd
 ![](/images/scatterplot_with_corridor_68_data_math.jpg)
