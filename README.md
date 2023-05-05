@@ -18,7 +18,7 @@
 ![](/images/Pearson_coefficient.jpg)
 
 ## Model Building
-$m= \frac{n \cdot \sum xy - \sum x \cdot \sum y}{n \cdot \sum x^2}$
+$m= \frac{n \cdot \sum xy - \sum x \cdot \sum y}{n \cdot \sum x^2 - (\sum x)^2}$
 ![](/images/scatterplot_with_math_linear_regression.jpg)
 * asd
 ![](/images/scatterplot_with_corridor_68_data_math.jpg)
