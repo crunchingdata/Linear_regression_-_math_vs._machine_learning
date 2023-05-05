@@ -9,7 +9,7 @@
 * dataset: 500 rows of daily revenue by temperature of a ice cream shop in IceCreamData.csv
 
 ## Data cleaning
-* Created a column with random values for comparison of obtained measures.
+* Created a column with random values for comparison of obtained measures. Thus data can change by running the code, also because of random data selection for ML.
 * Just a overview was requiered, because of non null-values in the dataset.
 ## EDA
 * I looked at the distributions of the data and the correlations between the columns with the pearson correlation coefficient.
