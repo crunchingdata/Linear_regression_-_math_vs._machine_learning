@@ -18,7 +18,7 @@
 ![](/images/Pearson_coefficient.jpg)
 
 ## Model Building
-$\sqrt{3x-1}+(1+x)^2$
+$\sum{3x-1}+(1+x)^2$
 ![](/images/scatterplot_with_math_linear_regression.jpg)
 * asd
 ![](/images/scatterplot_with_corridor_68_data_math.jpg)
