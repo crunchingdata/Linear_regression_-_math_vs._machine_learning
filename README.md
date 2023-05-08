@@ -34,8 +34,8 @@
 * Plotted for comparison both regression lines on the same scatter plot: red is machine learning, blue ist math. Because of no evidend difference, got on to numerical performance metrics.
 ![](/images/ML_red_vs_Math_blue_scatterplot.jpg)
 ### Performance metrics
-* ML: $\hspace{1em}MSE = 594.88,\hspace{1em} MAE = 19.58, \hspace{1em} R^2 =0.9788, \hspace{1em} RMSE = 24.39$
-* Math: $MSE = 588.45, \hspace{1em} MAE = 19.48, \hspace{1em} R^2 = 0.9791, \hspace{1em} RMSE = 24.26$
+* ML: $\hspace{1em}MSE = 805.46,\hspace{1em} MAE = 22.24, \hspace{1em} R^2 =0.9763, \hspace{1em} RMSE = 28.38$
+* Math: $MSE = 789.48, \hspace{1em} MAE = 22.03, \hspace{1em} R^2 = 0.9768, \hspace{1em} RMSE = 28.10$
 * Linear regression through math seems to be more accurate, because ML ist using 25% less data, thus only 75% of the data for training.
 * MSE expresses clearly a difference between ML and Math, because of square.
 ### Performance control
